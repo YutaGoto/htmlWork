@@ -1,0 +1,114 @@
+@charset utf-8;
+
+body{
+	font-family: 'ヒラギノ角ゴ Pro W3', 'Hiragino Kaku Gothic Pro', メイリオ, Meiryo, 'ＭＳ Ｐゴシック', sans-serif;
+	margin: 0;
+	padding: 0;
+}
+
+ul{
+	font-size: 0;
+	text-align: right;
+}
+
+li{
+	text-align: center;
+	background-color: #fefefe;
+	display: inline-block;
+	width: 18%;
+	font-size: 12px;
+	padding: 25px 0;
+	color: #fec9dd;
+	border-left: solid 1px;
+}
+
+li:hover{
+	background-color: #f1b4bb;
+	color: #fff;
+	border-left: solid 1px #fff;
+}
+
+a{
+	text-decoration: none;
+	color: #f1b4bb;
+	font-weight: bold;
+}
+
+h2{
+	text-align: center;
+}
+
+footer{
+	text-align: center;
+}
+
+table{
+	border-collapse: collapse;
+}
+
+table tr{
+	border: solid 1px;
+}
+
+#shop{
+	text-align: center;
+}
+
+#logo{
+	float: left;
+	padding-left: 15px;
+}
+
+#top{
+	width: 100%;
+	padding: 15% 0;
+	/*background-color: #edc0c0;*/
+	background-image: url(http://www.mielhair.com/upload/save_images/1_salonPhoto1.jpg);
+	background-position: bottom;
+	background-attachment: fixed;
+	text-align: center;
+}
+
+#btn{
+	padding: 20px 40px;
+	background-color: #f1b4bb;
+	color: #ffffff;
+}
+
+.clear{
+	clear: both;
+}
+
+.detail{
+	padding: 0 5px;
+	margin: 0 5px;
+}
+
+.shop_msg{
+	margin: 10px;
+	width: 60%;
+	float: left;
+}
+
+.shop_top{
+
+}
+
+.area_detail {
+	padding: 2px;
+    background-color: #eee;
+}
+.area_access {
+	text-align: left;
+	float: right;
+	width: 34%;
+}
+
+.map{
+	text-align: center;
+}
+
+.submit{
+	font-size: 24px;
+	text-align: center;
+}
