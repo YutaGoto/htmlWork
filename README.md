@@ -1,6 +1,6 @@
 # htmlWork
 
-![YutaGoto](img/yutagoto.png　"YutaGoto") 
+![YutaGoto](https://github.com/YutaGotoRejob/htmlWork/blob/master/img/yutagoto.png　"YutaGoto") 
 
 ## About
 
