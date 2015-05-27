@@ -15,6 +15,7 @@
 ## I wanna see your page!
 
 みてみましょう。![ここ](http://yutagotorejob.github.io/htmlWork)でみれます。
+[Google先生](https://www.google.co.jp/)
 
 ## Acknowledgement
 
