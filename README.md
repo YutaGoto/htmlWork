@@ -14,7 +14,7 @@
 
 ## I wanna see your page!
 
-![ここ](http://yutagotorejob.github.io/htmlWork/ "htmlWork")でみれます。
+![ここ](http://yutagotorejob.github.io/htmlWork/ "htmlWork")でみれます。みてみましょう。
 
 ## Acknowledgement
 
