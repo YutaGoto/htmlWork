@@ -12,6 +12,10 @@
 
 ちょうど右にある**Download ZIP**をクリックしてダウンロードすると、無事に使えるはずです。gitを知ってたらcloneでもいいですよ。
 
+## I wanna see your page!
+
+![ここ](http://yutagotorejob.github.io/htmlWork/ "htmlWork")でみれます。
+
 ## Acknowledgement
 
 応募するボタンは![Hover.css](http://ianlunn.github.io/Hover/ "Hover.css")から引用しました。他にも面白いボタンがあるので試してみたいですね。
