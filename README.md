@@ -18,4 +18,4 @@
 
 ## Acknowledgement
 
-応募するボタンは![Hover.css](http://ianlunn.github.io/Hover/ "Hover.css")から引用しました。他にも面白いボタンがあるので試してみたいですね。
+応募するボタンは[Hover.css](http://ianlunn.github.io/Hover/ "Hover.css")から引用しました。他にも面白いボタンがあるので試してみたいですね。
